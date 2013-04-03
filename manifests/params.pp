@@ -86,7 +86,7 @@ class nodejs::params {
   }
 
 
-  $version = 'v0.8.17'
+  $version = 'v0.11.0'
   $relversion = '1'
 
   $package_provider = 'make'
